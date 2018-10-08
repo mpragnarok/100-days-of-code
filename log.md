@@ -1,22 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 07, 2018 
+##### Background: I currently work in Australia with Working Holiday Visa and try to figure out my future.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+#100DaysOfCode 
+R1D1
+Python fundamentals. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Python fundamentals. I'm a slow learner.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I'm a slow learner. And I think I learn the things which I known already for a few times. So I decide to stick with a same tutorial for a month.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** None
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: October 08, 2018 
+##### ake my full responsibility for my life!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Dictionary, Argument.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Although, I learnt dictionary in the Udemy course(Complete Python bootcamp). But I still learn that I can add and call the list as a value in the DICT.
+
+**Link(s) to work**: https://repl.it/@mpragnarok/dictionary
 
 
 ### Day 1: June 27, Monday
